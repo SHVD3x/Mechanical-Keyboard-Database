@@ -24,7 +24,7 @@ A MCU chip database
   | HFD     | HFD64KG800 | SONIX           | SN32F248B     |ARM Cortex-M0 | LQFP 64 pins |
   | HFD     | HFD64KС200 | SONIX           | SN32F248B     |ARM Cortex-M0 | LQFP 64 pins |
   | HFD     | HFD7701KBA | SONIX           | SN32F248B     |ARM Cortex-M0 | LQFP 64 pins |
-  | HFD     | HFD80CP100 | SONIX           | SN32F289      |ARM Cortex-M0 | LQFP 64 pins |
+  | HFD     | HFD80CP100 | SONIX           | SN32F289      |ARM Cortex-M0 | LQFP 80 pins |
   | SONIX   | SN32F248   | No              |               |ARM Cortex-M0 | LQFP 64 pins |
   | SONIX   | SN32F248B  | No              |               |ARM Cortex-M0 | LQFP 64 pins |
   | SONIX   | SN32F268   | No              |               |ARM Cortex-M0 | LQFP 48 pins |
