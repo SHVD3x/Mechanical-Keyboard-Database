@@ -81,14 +81,13 @@ A MCU chip database
 
 </details>
 
-## Bluetooth chip
+## Wireless chip
 <details>
   <summary>Click to expand!</summary>
-
-  ## Temporary
 
   | Company | MCU        | Rebrand company | Original Chip | Type            | Pin          |
   | ------- | ---------- | --------------- | ------------- |---------------- | ------------ |
   | HFD     | HFDQKJ101  | WCH             | CH584         | USB+BLE+NFC SoC | QFN 48 pins  |
+  | WCH     | WCH582F    | No              |               | USB+BLE SoC     | QFN 28 pins  |
   |         |            |                 |               |                 |              |
 </details>
