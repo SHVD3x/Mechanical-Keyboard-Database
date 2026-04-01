@@ -17,10 +17,14 @@ A MCU chip database
   | eVision | VS11K16A   | SONIX           | SN32F268      |ARM Cortex-M0 | LQFP 48 pins |
   | eVision | VS11K17A   | SONIX           | SN32F268      |ARM Cortex-M0 | LQFP 48 pins |
   | eVision | VS11K20A   | SONIX           | SN32F268      |ARM Cortex-M0 | LQFP 48 pins |
-  | HFD     | HFD2201KBA | SONIX           | SN32F248B     |ARM Cortex-M0 | LQFP 64 pins |
+  | HFD     | HFD48KD200 | SONIX           | SN32F268      |ARM Cortex-M0 | LQFP 48 pins |
+  | HFD     | HFD48KG300 | SONIX           | SN32F268      |ARM Cortex-M0 | LQFP 48 pins |
   | HFD     | HFD48KP500 | SONIX           | SN32F268      |ARM Cortex-M0 | LQFP 48 pins |
+  | HFD     | HFD2201KBA | SONIX           | SN32F248B     |ARM Cortex-M0 | LQFP 64 pins |
   | HFD     | HFD64KG800 | SONIX           | SN32F248B     |ARM Cortex-M0 | LQFP 64 pins |
+  | HFD     | HFD64KС200 | SONIX           | SN32F248B     |ARM Cortex-M0 | LQFP 64 pins |
   | HFD     | HFD7701KBA | SONIX           | SN32F248B     |ARM Cortex-M0 | LQFP 64 pins |
+  | HFD     | HFD80CP100 | SONIX           | SN32F289      |ARM Cortex-M0 | LQFP 64 pins |
   | SONIX   | SN32F248   | No              |               |ARM Cortex-M0 | LQFP 64 pins |
   | SONIX   | SN32F248B  | No              |               |ARM Cortex-M0 | LQFP 64 pins |
   | SONIX   | SN32F268   | No              |               |ARM Cortex-M0 | LQFP 48 pins |
@@ -65,7 +69,7 @@ A MCU chip database
 
   ## SPI Interface
 
-  | Company | MCU        | Rebrand company | Original Chip | Type          | Pin          |
+  | Company | MCU        | Rebrand company | Original Chip | Type         | Pin          |
   | ------- | ---------- | --------------- | ------------- |------------- | ------------ |
   | eVision | VS12L17A   | SONIX           | SLED1734X     |LED Control   | SSOP 28 pins |
   | HFD     | HFD5501LCQ | SONIX           | SNLED27351J   |LED Control   | QFN 40 pins  |
@@ -83,7 +87,8 @@ A MCU chip database
 
   ## Temporary
 
-  | Company | MCU       | Rebrand company | Type          | Pin          |
-  | ------- | --------- | --------------- | ------------- | ------------ |
-  |         |           |                 |               |              |
+  | Company | MCU        | Rebrand company | Original Chip | Type            | Pin          |
+  | ------- | ---------- | --------------- | ------------- |---------------- | ------------ |
+  | HFD     | HFDQKJ101  | WCH             | CH584         | USB+BLE+NFC SoC | QFN 48 pins  |
+  |         |            |                 |               |                 |              |
 </details>
